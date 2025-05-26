@@ -171,6 +171,7 @@ nav ul li a:hover::after{
     background: #2a9df4;
     transform: translateY(-10px);
     transition: 0.5s, transform 0.5s;
+    color: #fff;
 }
 /*-------------------portfolio--------------------*/
 #portfolio{
