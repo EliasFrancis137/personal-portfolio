@@ -17,7 +17,7 @@ The goal of this project is to practice building a clean, responsive portfolio w
 ---
 
 ## 🚧 Tasks in Progress
-- [ ] Dual CV buttons (view & download)  
+- [x] Dual CV buttons (view & download)  
 - [ ] Theme switcher (light/dark mode)  
 - [ ] Typing effect for title  
 - [ ] Scroll-to-reveal animations  
